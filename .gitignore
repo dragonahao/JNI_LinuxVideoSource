@@ -1,0 +1,7 @@
+#################
+## NetBeans
+#################
+
+build
+dist
+/nbproject/private/

@@ -1,6 +1,6 @@
 # JNI_LinuxVideoSource
 
-Проект JNI_LinuxVideoSource представляет собой библиотеку-посредник между V4L из проектом Video.
+Проект JNI_LinuxVideoSource представляет собой библиотеку-посредник между V4L и проектом Video.
 
 
 ## Авторские права
